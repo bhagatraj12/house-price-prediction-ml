@@ -1,7 +1,5 @@
 ## 📊 Model Output
-
-![Model](MODEL.png)
+![Model](images/MODEL.png)
 
 ## 📋 Details
-
-![Details](DETAILS.png)
+![Details](images/DETAILS.png)
